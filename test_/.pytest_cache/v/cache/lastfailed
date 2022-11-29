@@ -1,0 +1,11 @@
+{
+  "test_hotel.py::Test_Hotel::test_hotel[Firefox]": true,
+  "test_hotel.py::Test_Hotel::test_hotel[Edge]": true,
+  "test_hotel.py::Test_Hotel::test_hotel[Chrome]": true,
+  "test_hotel.py::Test_hotels::test_hotels[Firefox]": true,
+  "test_hotel.py::Test_hotels::test_hotels[Chrome]": true,
+  "test_hotel.py::Test_hotels::test_hotels[Chrome-123]": true,
+  "test_hotel.py::Test_hotels::test_hotels[Firefox-123]": true,
+  "test_hotel.py::Test_hotels::test_hotels[Firefox-pune]": true,
+  "test_hotel.py::Test_hotels::test_hotels[Edge-123]": true
+}

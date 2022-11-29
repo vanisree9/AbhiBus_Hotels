@@ -1,0 +1,14 @@
+[
+  "test_hotel.py::Test_Hotel::test_hotel[Chrome]",
+  "test_hotel.py::Test_Hotel::test_hotel[Edge]",
+  "test_hotel.py::Test_Hotel::test_hotel[Firefox]",
+  "test_hotel.py::Test_hotels::test_hotels[Chrome-123]",
+  "test_hotel.py::Test_hotels::test_hotels[Chrome-pune]",
+  "test_hotel.py::Test_hotels::test_hotels[Chrome]",
+  "test_hotel.py::Test_hotels::test_hotels[Edge-123]",
+  "test_hotel.py::Test_hotels::test_hotels[Edge-pune]",
+  "test_hotel.py::Test_hotels::test_hotels[Edge]",
+  "test_hotel.py::Test_hotels::test_hotels[Firefox-123]",
+  "test_hotel.py::Test_hotels::test_hotels[Firefox-pune]",
+  "test_hotel.py::Test_hotels::test_hotels[Firefox]"
+]
